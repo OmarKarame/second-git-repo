@@ -1,3 +1,3 @@
 # second-git-repo
 
-Hello
+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
